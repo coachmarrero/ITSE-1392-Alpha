@@ -1,2 +1,2 @@
 # ITSE-1392-Alpha
-This is repository ALPHA for testing purposes
+This is the repository ALPHA for testing purposes
